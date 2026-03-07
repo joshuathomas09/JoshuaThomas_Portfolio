@@ -32,11 +32,11 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 ## 📊 Projects  
 
-### BI 360 – [Power BI and MySQL]  
-🌍 AtliQ's global expansion led to complex challenges and losses in Latin America.  
-🔍 We developed interactive Power BI dashboards for finance, sales, marketing, supply chain, and executive insights.  
-📈 Empowered AtliQ with data-driven strategies for growth.  
-![image](BI360.jpg)  
+### Email Marketing Campaign – [Power BI]    
+🔍 Built an interactive dashboard to evaluate customer engagement, campaign effectiveness, and conversion outcomes. Created calculated columns and measures using DAX to derive meaningful marketing metrics. Identified high-performing and underperforming campaigns based on engagement and conversion metrics.  
+![image](em1.png)  
+![image](em2.png)
+![image](em3.png)
 [🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
