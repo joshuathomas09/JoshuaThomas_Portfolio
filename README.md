@@ -32,21 +32,21 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 ## 📊 Projects  
 
-### Email Marketing Campaign – [Power BI]    
-🔍 Built an interactive dashboard to evaluate customer engagement, campaign effectiveness, and conversion outcomes. Created calculated columns and measures using DAX to derive meaningful marketing metrics. Identified high-performing and underperforming campaigns based on engagement and conversion metrics.  
+### Email Marketing Campaign – [Power BI]   
+🌍 Multiple companies Email Marketing Campaign details are provided.
+🔍 Built an interactive dashboard to evaluate customer engagement, campaign effectiveness, and conversion outcomes. Created calculated columns and measures using DAX to derive meaningful marketing metrics. Identified high-performing and underperforming campaigns based on engagement and conversion metrics.
+📈 Empowered the management with data-driven strategies for growth.
 ![image](em1.png)  
 ![image](em2.png)
 ![image](em3.png)
-[🔗 View Dashboard](http://localhost:8888/notebooks/OneDrive/Desktop/My%20Great%20Learning/CAPSTONE%20PROJECT/JOSHUA_THOMAS_CAPSTONE_HEALTHCARE_PROJECT_final.ipynb)  
 
 ---
 
-### Hospitality Analysis – [Power BI and Excel]  
-🏨 AtliQ Grands faced declining market share and revenue due to poor management decisions.  
-💡 Developed interactive dashboards to analyze key metrics, including RevPAR, ADR, and occupancy.  
-📊 Insights supported decision-making for enhanced performance.  
-![image](hospitality.jpg)  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODE4NDQyNTMtOTJmZC00MjRiLWI4MWUtNTFlZGRhZDIwYjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=931b63cfc48963c6886a)  
+###	Health Care Project - Insurance Premium Prediction – [Python and Excel]  
+🏨 The objective is to build a model, using data that provide the optimum insurance cost for an individual.  
+💡 Successfully developed a Gradient Boosting model to predict insurance costs with high accuracy, allowing personalized pricing and effective risk management. 
+📊 Insights from customer demographics and health indicators promote targeted strategies, helping customer retention and satisfaction. 
+[🔗 View project](http://localhost:8888/notebooks/OneDrive/Desktop/My%20Great%20Learning/CAPSTONE%20PROJECT/JOSHUA_THOMAS_CAPSTONE_HEALTHCARE_PROJECT_final.ipynb)  
 
 ---
 
