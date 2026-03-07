@@ -44,7 +44,7 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 ###	Health Care Project - Insurance Premium Prediction – [Python and Excel]  
 🏨 The objective is to build a model, using data that provide the optimum insurance cost for an individual.  
-💡 Successfully developed a Gradient Boosting model to predict insurance costs with high accuracy, allowing personalized pricing and effective risk management. 
+💡 Successfully developed a Gradient Boosting model to predict insurance costs with high accuracy, allowing personalized pricing and effective risk management.
 📊 Insights from customer demographics and health indicators promote targeted strategies, helping customer retention and satisfaction. 
 [🔗 View project](http://localhost:8888/notebooks/OneDrive/Desktop/My%20Great%20Learning/CAPSTONE%20PROJECT/JOSHUA_THOMAS_CAPSTONE_HEALTHCARE_PROJECT_final.ipynb)  
 
