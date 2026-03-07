@@ -34,7 +34,9 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 ### Email Marketing Campaign – [Power BI]   
 🌍 Multiple companies Email Marketing Campaign details are provided.
+
 🔍 Built an interactive dashboard to evaluate customer engagement, campaign effectiveness, and conversion outcomes. Created calculated columns and measures using DAX to derive meaningful marketing metrics. Identified high-performing and underperforming campaigns based on engagement and conversion metrics.
+
 📈 Empowered the management with data-driven strategies for growth.
 ![image](em1.png)  
 ![image](em2.png)
