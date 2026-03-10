@@ -62,7 +62,7 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 📊 Insurance companies can use these insights to improve risk profiling, optimize premium pricing, and develop targeted insurance policies for high-risk segments.
 
-[🔗 View project](http://localhost:8888/notebooks/OneDrive/Desktop/My%20Great%20Learning/CAPSTONE%20PROJECT/JOSHUA_THOMAS_CAPSTONE_HEALTHCARE_PROJECT_final.ipynb)
+[🔗 View project](joshua thomas DVT story.pdf)
 
 ---
 
@@ -73,7 +73,7 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 📈 Analyzed the data and developed a predictive model using machine learning techniques to identify whether a given company is at risk of bankruptcy in the near future. The model will help the organization anticipate potential financial distress and enable proactive measures to manage risks effectively.
 
-[🔗 View project](http://localhost:8888/notebooks/OneDrive/Desktop/My%20Great%20Learning/Finance%20and%20Risk%20Analytics%20%20%2011/Extended%20Project/JoshuaThomas_FRA_Extended_Project.ipynb) 
+[🔗 View project](Python_Code - JoshuaThomas_FRA.pdf) 
 
 
 ## 📜 Certifications  And Courses
