@@ -45,17 +45,41 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 ---
 
 ###	Health Care Project - Insurance Premium Prediction – [Python and Excel]  
-🏨 The objective is to build a model, using data that provide the optimum insurance cost for an individual.  
+🏨 The objective is to build a model, using data that provide the optimum insurance cost for an individual.
+
 💡 Successfully developed a Gradient Boosting model to predict insurance costs with high accuracy, allowing personalized pricing and effective risk management.
-📊 Insights from customer demographics and health indicators promote targeted strategies, helping customer retention and satisfaction. 
+
+📊 Insights from customer demographics and health indicators promote targeted strategies, helping customer retention and satisfaction.
+
 [🔗 View project](http://localhost:8888/notebooks/OneDrive/Desktop/My%20Great%20Learning/CAPSTONE%20PROJECT/JOSHUA_THOMAS_CAPSTONE_HEALTHCARE_PROJECT_final.ipynb)  
 
 ---
 
+###	Car Insurance Claim Analysis - Fraud Detection – [Tableau and Excel]  
+🏨 The objective is to analyze car insurance customer data to identify patterns and risk factors influencing insurance claims.
+
+💡 Built an interactive dashboard to identify the claim rates, claim probability, vehicle type which carry higher risk, Customer demographics and driving patterns for insurance claims
+
+📊 Insurance companies can use these insights to improve risk profiling, optimize premium pricing, and develop targeted insurance policies for high-risk segments.
+
+[🔗 View project](http://localhost:8888/notebooks/OneDrive/Desktop/My%20Great%20Learning/CAPSTONE%20PROJECT/JOSHUA_THOMAS_CAPSTONE_HEALTHCARE_PROJECT_final.ipynb)
+
+---
+
+### Company Bankruptcy Analysis – [Python and Excel]   
+🏨 A well-known financial analytics company wants to create a Bankruptcy Prediction Tool to help regulators, investors, and financial institutions assess the bankruptcy risk of US publicly traded corporations. 
+
+🔍 The Tuned Random Forest model performed best, striking a balance between accuracy, recall, and precision. While its overall accuracy is 65.32%, it offers the best ability to identify bankruptcy cases (recall: 38.46%) compared to other models.
+
+📈 Analyzed the data and developed a predictive model using machine learning techniques to identify whether a given company is at risk of bankruptcy in the near future. The model will help the organization anticipate potential financial distress and enable proactive measures to manage risks effectively.
+
+[🔗 View project](http://localhost:8888/notebooks/OneDrive/Desktop/My%20Great%20Learning/Finance%20and%20Risk%20Analytics%20%20%2011/Extended%20Project/JoshuaThomas_FRA_Extended_Project.ipynb) 
+
+
 ## 📜 Certifications  And Courses
-- ✅ Codebasics Certified: Advanced Excel, Power BI Developer, SQL Developer  
-- 🎯 SPES-Rashtriya Raksha University: Certificate in Sports Analytics  
-- ⚽ Mad About Sports: Advanced Football Analytics Master Class  
+- ✅ Great Learning Certified: Post Graduate program in Data Science and Business Analytics  
+- ✅ Great Learning: Generative AI
+- ✅ Rows & Columns: Data Analytics Course
 
 ---
 
@@ -70,8 +94,8 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 ## 🎯 Interests  
 - 📊 Dashboard Design  
-- ⚽ Football & Cricket Analytics  
-- 🎬 Movies & 🎒 Traveling  
+- 🎮 Gaming  
+- 🎬 Movies & 🎵 Music  
 
 ---
 
