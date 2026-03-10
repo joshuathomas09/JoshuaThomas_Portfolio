@@ -51,7 +51,7 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 📊 Insights from customer demographics and health indicators promote targeted strategies, helping customer retention and satisfaction.
 
-[🔗 View project](http://localhost:8888/notebooks/OneDrive/Desktop/My%20Great%20Learning/CAPSTONE%20PROJECT/JOSHUA_THOMAS_CAPSTONE_HEALTHCARE_PROJECT_final.ipynb)  
+[🔗 View project](python_code-JoshuaThomas Capstone.pdf)  
 
 ---
 
