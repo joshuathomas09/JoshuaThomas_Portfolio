@@ -38,6 +38,7 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 🔍 Built an interactive dashboard to evaluate customer engagement, campaign effectiveness, and conversion outcomes. Created calculated columns and measures using DAX to derive meaningful marketing metrics. Identified high-performing and underperforming campaigns based on engagement and conversion metrics.
 
 📈 Empowered the management with data-driven strategies for growth.
+[🔗 View Dashboard]
 ![image](em1.png)  
 ![image](em2.png)
 ![image](em3.png)
@@ -118,7 +119,7 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Boniface_Data_Analyst.pdf">Download my CV</a></td>
+      <td><a href="JoshuaThomas_Data_Analyst.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
