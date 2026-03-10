@@ -63,7 +63,7 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 📊 Insurance companies can use these insights to improve risk profiling, optimize premium pricing, and develop targeted insurance policies for high-risk segments.
 
-[🔗 View project](joshua thomas DVT story.pdf)
+[🔗 View Dashboard](joshua thomas DVT story.pdf)
 
 ---
 
