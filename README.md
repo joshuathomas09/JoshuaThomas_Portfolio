@@ -119,7 +119,7 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="JoshuaThomas_Data_Analyst.pdf">Download my CV</a></td>
+      <td><a href="JoshuaThomas_Data_Analyst_CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
