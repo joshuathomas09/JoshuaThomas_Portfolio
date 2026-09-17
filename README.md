@@ -8,6 +8,12 @@ I am a Data Analyst with hands-on experience in Python, SQL, Excel, Power BI, an
 
 Alongside my analytics experience, I worked as a Counselling Coordinator at Fair Future Overseas Educational Consultancy Pvt Ltd, where I managed structured client data, improved record systems, and increased response efficiency by 20%. This role strengthened my communication, problem-solving, and stakeholder management skills.
 
+I had the opportunity do an internship at KPIT Technologies. I worked with the KPIT Academy and AI Academy teams, supporting enterprise learning initiatives, AI adoption programs, and process automation projects. My work spans learning analytics, training program management, Power Platform solutions, and Microsoft Copilot enablement.
+
+I have designed and documented Power Automate workflows that automate session attendance analysis, learning-hours reporting, assessment approvals, and operational processes. I have also worked on AI-driven solutions using Microsoft Copilot Studio to transform manual reporting processes into intelligent, conversational experiences.
+
+Beyond automation, I coordinate large-scale technical enablement programs involving Microsoft Copilot, GitHub Copilot, AI Academy initiatives, global learning cohorts, and instructor-led workshops. I regularly collaborate with stakeholders, learners, trainers, and leadership teams to drive successful learning outcomes and AI adoption.
+
 I completed a Postgraduate Program in Data Science and Business Analytics from University of Texas at Austin in collaboration with Great Learning, and I am eager to apply data-driven thinking to solve real-world business problems and grow as a data professional.
 🚀 Let’s turn data into impactful stories!  
 
@@ -28,9 +34,25 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 - Maintained records of daily inquiries, improving access to key client information for senior executives.
 - Collaborated with the internal team to optimize data logs, resulting in a 20% increase in client response efficiency.
 
+### 🔹Trainee - ECoDe | AI Operations & Learning Enablement - KPIT Technolgies (April 2026- August 2026)
+- Coordinate AI learning and adoption initiatives covering Microsoft 365 Copilot, GitHub Copilot, Power Automate, Copilot Studio, and AI Agents.
+- Manage learner onboarding, nominations, attendance, enrollment and completion tracking, reminders, feedback collection, and status reporting for technical enablement programs.
+- Coordinate session calendars, meeting invitations, trainers, learners, leaders, and cross-functional stakeholders across business teams and global cohorts.
+- Collect, organize, track, and consolidate AI use-case submissions and supporting documentation; follow up with participants and support evaluation readiness.
+- Transform attendance, enrollment, feedback, and operational data into structured analysis, learning-hour reporting, dashboards, and stakeholder updates.
+- Design and document a Microsoft Power Automate workflow for post-session attendance and learning-hours analysis, replacing a manual formula-driven process with a repeatable, standardized output.
+- Develop implementation guidance for an attendance-analysis solution using Power Automate, Office Scripts, Excel Online, OneDrive, and SharePoint logging.
+- Support intelligent reporting and knowledge-retrieval concepts using Microsoft Copilot Studio and AI agents, while maintaining clear process and requirement documentation.
+- Certification
+  
 ---
 
 ## 📊 Projects  
+
+### Automated Session Attendance & Learning Hours Analysis - KPIT Academy
+- Designed requirement and build documentation for a governed Power Automate workflow that prepares standardized post-session attendance and learning-hours analysis. Solution design covers data acquisition, transformation, enrichment, output generation, error handling, testing, and governance.
+- Tools: Power Automate, Office Scripts, Excel Online, OneDrive, SharePoint
+
 
 ### Email Marketing Campaign – [Power BI]   
 🌍 Multiple companies Email Marketing Campaign details are provided.
