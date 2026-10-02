@@ -31,7 +31,7 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 - Design and document a Microsoft Power Automate workflow for post-session attendance and learning-hours analysis, replacing a manual formula-driven process with a repeatable, standardized output.
 - Develop implementation guidance for an attendance-analysis solution using Power Automate, Office Scripts, Excel Online, OneDrive, and SharePoint logging.
 - Support intelligent reporting and knowledge-retrieval concepts using Microsoft Copilot Studio and AI agents, while maintaining clear process and requirement documentation.
-[Certification]:
+[Certification](Traineeship_Certificate_Letter_222480.pdf)
 
 ### 🔹Counselling Coordinator - Fair Future Overseas Educational Consultancy Pvt Ltd (April 2024- September 2025)
 - Managed structured client inquiry data using spreadsheets for streamlined decision-making.
