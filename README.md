@@ -108,7 +108,7 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 - ✅ Rows & Columns: Data Analytics Course
 - ✅ [Microsoft Certifications: GitHub Copilot](Achievements - joshuathomas-3939 _ Microsoft Learn.pdf)
 - ✅ [Microsoft Certifications: Draft, analyze, and present with Microsoft 365 Copilot](Achievements - joshuathomas-3939 _ Microsoft Learn1.pdf)
-- ✅ Generative AI for Everyone – DeepLearning.AI (Coursera)
+- ✅ [Generative AI for Everyone – DeepLearning.AI (Coursera)](Coursera TMWHYCLMTOU1.pdf)
 
 ---
 
