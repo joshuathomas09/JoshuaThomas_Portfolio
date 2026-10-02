@@ -106,6 +106,9 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 - ✅ [Great Learning Certified: Post Graduate program in Data Science and Business Analytics](JOSHUA THOMAS - Data Science Certificate.pdf)
 - ✅ [Great Learning: Generative AI](Joshua Thomas- GEN AI.pdf)
 - ✅ Rows & Columns: Data Analytics Course
+- ✅ Microsoft Certifications: GitHub Copilot | July 2026
+- ✅ Microsoft Certifications: Draft analyze, and present with Microsoft 365 Copilot | July 2026
+- ✅ Generative AI for Everyone – DeepLearning.AI (Coursera) | Aug 2026
 
 ---
 
