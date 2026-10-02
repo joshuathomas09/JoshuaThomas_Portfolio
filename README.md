@@ -29,11 +29,6 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 ## 💼 Work Experience  
 
-### 🔹Counselling Coordinator - Fair Future Overseas Educational Consultancy Pvt Ltd (April 2024- September 2025)
-- Managed structured client inquiry data using spreadsheets for streamlined decision-making.
-- Maintained records of daily inquiries, improving access to key client information for senior executives.
-- Collaborated with the internal team to optimize data logs, resulting in a 20% increase in client response efficiency.
-
 ### 🔹Trainee - ECoDe | AI Operations & Learning Enablement - KPIT Technolgies (April 2026- August 2026)
 - Coordinate AI learning and adoption initiatives covering Microsoft 365 Copilot, GitHub Copilot, Power Automate, Copilot Studio, and AI Agents.
 - Manage learner onboarding, nominations, attendance, enrollment and completion tracking, reminders, feedback collection, and status reporting for technical enablement programs.
@@ -43,7 +38,12 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 - Design and document a Microsoft Power Automate workflow for post-session attendance and learning-hours analysis, replacing a manual formula-driven process with a repeatable, standardized output.
 - Develop implementation guidance for an attendance-analysis solution using Power Automate, Office Scripts, Excel Online, OneDrive, and SharePoint logging.
 - Support intelligent reporting and knowledge-retrieval concepts using Microsoft Copilot Studio and AI agents, while maintaining clear process and requirement documentation.
-- Certification: 
+- Certification:
+
+### 🔹Counselling Coordinator - Fair Future Overseas Educational Consultancy Pvt Ltd (April 2024- September 2025)
+- Managed structured client inquiry data using spreadsheets for streamlined decision-making.
+- Maintained records of daily inquiries, improving access to key client information for senior executives.
+- Collaborated with the internal team to optimize data logs, resulting in a 20% increase in client response efficiency. 
   
 ---
 
