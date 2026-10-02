@@ -104,7 +104,7 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 ## 📜 Certifications  And Courses
 - ✅ [Great Learning Certified: Post Graduate program in Data Science and Business Analytics](JOSHUA THOMAS - Data Science Certificate.pdf)
-- ✅ Great Learning: Generative AI
+- ✅ [Great Learning: Generative AI](Joshua Thomas- GEN AI.pdf)
 - ✅ Rows & Columns: Data Analytics Course
 
 ---
