@@ -36,7 +36,8 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 ### 🔹Counselling Coordinator - Fair Future Overseas Educational Consultancy Pvt Ltd (April 2024- September 2025)
 - Managed structured client inquiry data using spreadsheets for streamlined decision-making.
 - Maintained records of daily inquiries, improving access to key client information for senior executives.
-- Collaborated with the internal team to optimize data logs, resulting in a 20% increase in client response efficiency. 
+- Collaborated with the internal team to optimize data logs, resulting in a 20% increase in client response efficiency.
+[Certification](Joshua Thomas_FF_ExpCertificate.pdf)
 
 ---
 
