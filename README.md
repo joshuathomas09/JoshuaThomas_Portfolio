@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Joshua Thomas  
-Data Analyst | Data-Driven Decision Making | Transforming Insights into Impact  
+Data & AI Professional | Microsoft Copilot | Power Platform | Process Automation | Data Analytics | Power BI . Excel . SQL . Tableau . 
 
 <!--Section 1: Introduction-->
 
