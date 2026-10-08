@@ -34,9 +34,12 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 [Certification](Traineeship_Certificate_Letter_222480.pdf)
 
 ### 🔹Counselling Coordinator - Fair Future Overseas Educational Consultancy Pvt Ltd (April 2024- September 2025)
-- Managed structured client inquiry data using spreadsheets for streamlined decision-making.
-- Maintained records of daily inquiries, improving access to key client information for senior executives.
-- Collaborated with the internal team to optimize data logs, resulting in a 20% increase in client response efficiency.
+- Managed customer and CRM data in Excel and CRM systems, maintaining accurate records of leads, inquiries, follow-ups, and customer interactions.
+- Analyzed sales-pipeline metrics, customer interactions, conversion rates, and engagement data to support business decisions and performance evaluation.
+- Generated periodic MIS-style reports covering client acquisition, conversion performance, and engagement metrics for senior management.
+- Performed data tracking and validation activities to improve the accuracy and completeness of customer and sales information.
+- Collaborated with cross-functional teams to improve data-tracking processes, contributing to a 20% improvement in client response efficiency.
+- Monitored customer follow-ups and pipeline activity to support effective account and customer management.
 [Certification](Joshua Thomas_FF_ExpCertificate.pdf)
 
 ---
