@@ -73,6 +73,30 @@ I completed a Postgraduate Program in Data Science and Business Analytics from U
 
 ---
 
+### Excel Data Analysis & Dashboard Project
+
+Project Overview
+
+📈 This project demonstrates practical Microsoft Excel skills in data analysis, reporting, data validation, and dashboard creation. It includes exercises using employee, salary, sales, advertising expense, and invoice datasets.
+
+Key Features:
+- Employee data analysis and workforce reporting
+- Excel dashboard with charts and visual summaries
+- PivotTables for aggregating and analyzing employee data
+- Advanced Excel formulas for calculations and lookups
+- Data validation and conditional formatting
+- Employee information retrieval using INDEX-MATCH
+- Error handling using IFERROR
+- Salary, sales, and advertising expense calculations
+
+Tools & Skills
+
+Microsoft Excel | PivotTables | Excel Charts | IF | SUMIF | COUNTIF | INDEX-MATCH | IFERROR | Conditional Formatting | Data Validation | Data Analysis | Reporting
+
+[🔗 View project](
+
+---
+
 ###	Health Care Project - Insurance Premium Prediction – [Python and Excel]  
 🏨 The objective is to build a model, using data that provide the optimum insurance cost for an individual.
 
