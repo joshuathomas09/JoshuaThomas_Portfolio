@@ -89,11 +89,10 @@ Key Features:
 - Error handling using IFERROR
 - Salary, sales, and advertising expense calculations
 
-Tools & Skills
-
+Tools & Skills:
 Microsoft Excel | PivotTables | Excel Charts | IF | SUMIF | COUNTIF | INDEX-MATCH | IFERROR | Conditional Formatting | Data Validation | Data Analysis | Reporting
 
-[🔗 View project](
+[🔗 View project](Excel Analytics & Dashboard.xlsx)
 
 ---
 
